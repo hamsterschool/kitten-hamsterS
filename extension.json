@@ -1,0 +1,7 @@
+{
+	"version": "1.0.0",
+	"name": "햄스터S",
+	"type": "scratch3",
+	"extensions": ["hamsterS"],
+	"image": "hamsterS-image.png"
+}
